@@ -1,0 +1,3 @@
+customtkinter
+pandas
+auto-py-to-exe
